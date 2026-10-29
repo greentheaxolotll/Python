@@ -1,0 +1,21 @@
+Title,Artist,Duration
+Hello World,The Synthesizers,180
+Stack Overflow,Null Pointer,210
+Off By One,Array Index,195
+Infinite Loop,The Debuggers,240
+Garbage Collection,Null Pointer,165
+Runtime Error,Byte Code,188
+Syntax Sugar,The Synthesizers,205
+Segmentation Fault,Null Pointer,300
+Merge Conflict,The Debuggers,150
+Push to Master,Array Index,220
+Blue Screen,Byte Code,190
+Cache Miss,The Synthesizers,215
+Brute Force,The Debuggers,140
+Rubber Ducking,Array Index,175
+Memory Leak,Null Pointer,260
+Boolean Logic,Byte Code,180
+Time Complexity,The Synthesizers,230
+Kernel Panic,Null Pointer,270
+Refactoring,Array Index,190
+Git Commit,The Debuggers,160
